@@ -1,3 +1,1 @@
 # JavaRushRepo
-
-Test repo
